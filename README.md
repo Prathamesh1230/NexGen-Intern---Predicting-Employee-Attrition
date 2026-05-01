@@ -38,9 +38,6 @@ The SQL file has 11 queries covering:
 
 ## Dashboard
 
-> Add your Power BI screenshot here
-> `![Dashboard](dashboard.png)`
-
 ---
 
 ## Key Questions This Project Answers
