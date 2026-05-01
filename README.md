@@ -1,6 +1,6 @@
 # 🔍 Predicting Employee Attrition — NexGen Internship
 
-> Why do employees leave? This project tries to answer that using real HR data, SQL analysis, machine learning, and a Power BI dashboard.
+Why do employees leave? This project tries to answer that using real HR data, SQL analysis, machine learning, and a Power BI dashboard.
 
 ---
 
@@ -16,7 +16,7 @@ NexGen-Intern---Predicting-Employee-Attrition
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 `Python` &nbsp;|&nbsp; `SQL (MySQL)` &nbsp;|&nbsp; `Power BI` &nbsp;|&nbsp; `scikit-learn` &nbsp;|&nbsp; `pandas`
 
