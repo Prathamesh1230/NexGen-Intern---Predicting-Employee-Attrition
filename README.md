@@ -1,4 +1,4 @@
-#  Predicting Employee Attrition — NexGen Internship
+# Predicting Employee Attrition — NexGen Internship
 
 Why do employees leave? This project tries to answer that using real HR data, SQL analysis, machine learning, and a Power BI dashboard.
 
@@ -22,7 +22,7 @@ NexGen-Intern---Predicting-Employee-Attrition
 
 ---
 
-## 🧠 What the SQL Covers
+## What the SQL Covers
 
 The SQL file has 11 queries covering:
 
@@ -36,32 +36,14 @@ The SQL file has 11 queries covering:
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 > Add your Power BI screenshot here
 > `![Dashboard](dashboard.png)`
 
 ---
 
-## ▶️ How to Use
-
-**SQL**
-```sql
--- Import test.csv into MySQL, then run:
-source employee_attrition.sql;
-```
-
-**Python**
-```bash
-jupyter notebook Attrition.ipynb
-```
-
-**Power BI**
-→ Open `Employee Attrition Prediction.pbix` in Power BI Desktop
-
----
-
-## 💡 Key Questions This Project Answers
+## Key Questions This Project Answers
 
 - Which job roles have the highest attrition?
 - Does overtime push employees to quit?
