@@ -1,4 +1,4 @@
-# 🔍 Predicting Employee Attrition — NexGen Internship
+#  Predicting Employee Attrition — NexGen Internship
 
 Why do employees leave? This project tries to answer that using real HR data, SQL analysis, machine learning, and a Power BI dashboard.
 
