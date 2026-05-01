@@ -38,7 +38,7 @@ The SQL file has 11 queries covering:
 
 ## Dashboard
 <img width="1230" height="786" alt="image" src="https://github.com/user-attachments/assets/85b7c969-8288-4790-8e50-180b283bbb6f" />
-
+---
 <img width="1222" height="784" alt="image" src="https://github.com/user-attachments/assets/7a394fa5-1264-4eff-96d0-6269910d1f88" />
 
 ---
